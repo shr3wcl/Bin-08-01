@@ -1,13 +1,12 @@
 ### Hi, I'm Tri <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="20px">
 <img src="https://github.com/Bin-08-01/Bin-08-01/blob/main/bg.jpg?raw=true">
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 - 🔭 I’m currently working on VKU
 - 🌱 I’m currently learning VKU
 - 👯 I’m looking to collaborate on VKU
 - 💬 Ask me about programing
 
-<img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bin-08-01&theme=nord_dark)
 
 <!-- START_SECTION: waka -->
 📊 &nbsp;**This week I spent my time on**
