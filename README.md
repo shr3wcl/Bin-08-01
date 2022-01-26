@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Tri <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="30px">
 - 🔭 I’m currently working on VKU
 - 🌱 I’m currently learning VKU
 - 👯 I’m looking to collaborate on VKU
@@ -10,9 +10,6 @@
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Bin_08_01&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <!-- END_SECTION: waka -->
 
-
-
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-08-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <p align='center'>
@@ -20,5 +17,16 @@
   ![Puru Vijay's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Bin-08-01&show_icons=true&count_private=true&theme=gotham)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bin-08-01&show_icons=true&theme=onedark)
 </p>
+
+## ⚡ Technologies
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ![](https://komarev.com/ghpvc/?username=Bin-08-01&color=blue)
