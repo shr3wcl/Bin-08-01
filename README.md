@@ -1,4 +1,4 @@
-### Hi, I'm Tri <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="20px">
+# Hi, I'm Tri <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="20px">
 <img src="https://github.com/Bin-08-01/Bin-08-01/blob/main/bg.jpg?raw=true">
 
 - 🔭 I’m currently working on VKU
