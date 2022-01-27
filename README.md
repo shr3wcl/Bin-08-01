@@ -16,6 +16,7 @@
 ## ⚡ Technologies
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -23,6 +24,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-08-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
