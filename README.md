@@ -9,7 +9,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bin-08-01&theme=nord_dark)
 
 <!-- START_SECTION: waka -->
-
+<img src="https://wakatime.com/badge/user/a0ed3e52-55a7-428c-bd0b-3dea56cfb2fb.svg">
 <!-- END_SECTION: waka --> 
 ## ⚡ Technologies
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
