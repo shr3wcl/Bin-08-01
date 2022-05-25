@@ -23,6 +23,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![SASS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-08-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
