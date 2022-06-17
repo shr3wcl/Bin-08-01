@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning VKU
 - 💬 Ask me about programing
 - 📫 How to reach me whoami3141592@gmail.com
-- ⚡ Fun fact I'm gud boiz
+- ⚡ Fun fact I'm gud boiz but I'm still single 😭
 
 
 ![](https://komarev.com/ghpvc/?username=Bin-08-01&color=blue)
