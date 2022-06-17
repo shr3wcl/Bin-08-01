@@ -11,7 +11,9 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Bin-08-01&color=blue)
+<a href="https://wakatime.com/@Bin_08_01">
 <img src="https://wakatime.com/badge/user/a0ed3e52-55a7-428c-bd0b-3dea56cfb2fb.svg">&nbsp;
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bin-08-01&show_icons=true&theme=onedark)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bin-08-01&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Bin-08-01" /> 
