@@ -1,4 +1,4 @@
-# Hi, I'm Tri 
+# Hi, I'm Minh Tri 
 <!-- <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="20px"> -->
 <!-- <img src="https://github.com/Bin-08-01/Bin-08-01/blob/main/bg.jpg?raw=true"> -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23F74A4A&duration=3000&center=true&vCenter=true&multiline=true&width=1035&height=113&lines=I+interested+in+Frontend+and+Backend+developer;I%27m+learing+Infomation+Technoglogy+;at+Vietnam+-+Korea+University+of+Information+and+Communication+Technology)
