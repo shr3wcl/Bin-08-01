@@ -2,7 +2,7 @@
 <!-- <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="20px"> -->
 <!-- <img src="https://github.com/Bin-08-01/Bin-08-01/blob/main/bg.jpg?raw=true"> -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23F74A4A&duration=3000&center=true&vCenter=true&multiline=true&width=1035&height=113&lines=I+interested+in+Frontend+and+Backend+developer;I%27m+learing+Infomation+Technoglogy+;at+Vietnam+-+Korea+University+of+Information+and+Communication+Technology)
-<img align="right" src="https://api.daily.dev/devcards/11f5d119915f4f99b152b46cf8b3604f.png?r=gs7" width="300" alt="Minh Trí's Dev Card"/>
+
 - 🔭 I’m currently working on VKU
 - 🌱 I’m currently learning VKU
 - 💬 Ask me about programing
@@ -53,11 +53,7 @@
   <a href="https://docs.kernel.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-## 🎓 I'm learning in near future (Maybe 2022 and 2023)
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="tailwindcss" width="40" height="40"/> </a>
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-08-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!-- <p align='center'>
