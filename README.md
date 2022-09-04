@@ -2,9 +2,6 @@
 <a href="https://wakatime.com/@Bin_08_01">
 <img src="https://wakatime.com/badge/user/a0ed3e52-55a7-428c-bd0b-3dea56cfb2fb.svg">&nbsp;
 </a>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bin-08-01&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Bin-08-01" /> 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bin-08-01&theme=nord_dark) -->
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
