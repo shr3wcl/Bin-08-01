@@ -8,5 +8,7 @@
 <a href="https://www.facebook.com/SofM.2022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/SofM.2022/" height="30" width="40" /></a>
 </p>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bin-08-01&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Bin-08-01" /> 
+
 
 
