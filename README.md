@@ -8,6 +8,10 @@
 <a href="https://www.facebook.com/SofM.2022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/SofM.2022/" height="30" width="40" /></a>
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bin-08-01&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Bin-08-01" /> 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-08-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<p align="center">
+  <img alt="Imran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-08-01&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Imran's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bin_08_01&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
