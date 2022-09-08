@@ -10,6 +10,20 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-08-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--START_SECTION:waka-->
+
+```text
+From: 25 January 2022 - To: 07 September 2022
+
+Total Time: 450 hrs 31 mins
+
+JavaScript            104 hrs 50 mins >>>>>>-------------------   23.27 %
+HTML                  86 hrs 19 mins  >>>>>--------------------   19.16 %
+C++                   85 hrs 34 mins  >>>>>--------------------   18.99 %
+CSS                   61 hrs 9 mins   >>>----------------------   13.58 %
+Java                  55 hrs 6 mins   >>>----------------------   12.23 %
+PHP                   22 hrs 1 min    >------------------------   04.89 %
+```
+
 <!--END_SECTION:waka-->
 <p align="center">
   <img alt="Imran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-08-01&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
