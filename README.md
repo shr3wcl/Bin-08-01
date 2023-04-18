@@ -2,6 +2,22 @@
 <a href="https://wakatime.com/@Bin_08_01">
 <img src="https://wakatime.com/badge/user/a0ed3e52-55a7-428c-bd0b-3dea56cfb2fb.svg">&nbsp;
 </a>
+
+```Java
+public class Me extends Person{
+  private String name;
+  private String[] passion;
+  
+  public Me(){
+    this.name = "Minh Trí"
+    this.passion = {"Code", "Read", "CTF", "Pentest", "Travel", "Sport", "Sing", "Game", "..."};
+  }
+  
+  public void Sleep(){}
+  public void Eat(){}
+  public void Play(){}
+}
+```
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
