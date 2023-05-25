@@ -46,7 +46,7 @@ Kotlin                     94 hrs 13 mins  >>-----------------------   07.83 %
 
 <!--END_SECTION:waka-->
 <p align="center">
-  <img alt="Bin-08-01's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-08-01&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="Bin-08-01's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-08-01&langs_count=12&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <img alt="Bin-08-01's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bin_08_01&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 <!--   <img alt="" src="https://leetcard.jacoblin.cool/minhtri192035?theme=nord&font=Cabin&ext=heatmap" /> -->
 </p>
