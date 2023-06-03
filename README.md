@@ -32,16 +32,16 @@ public class Me extends Person{
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-08-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--START_SECTION:waka-->
 
-```text
-From: 25 January 2022 - To: 01 June 2023
+```txt
+From: 25 January 2022 - To: 02 June 2023
 
-Total Time: 1,226 hrs 47 mins
+Total Time: 1,227 hrs 54 mins
 
-JavaScript                 364 hrs 35 mins >>>>>>>------------------   29.72 %
-PHP                        161 hrs 25 mins >>>----------------------   13.16 %
-C++                        101 hrs 11 mins >>-----------------------   08.25 %
-HTML                       95 hrs 48 mins  >>-----------------------   07.81 %
-Kotlin                     94 hrs 13 mins  >>-----------------------   07.68 %
+JavaScript                 364 hrs 44 mins >>>>>>>------------------   29.70 %
+PHP                        161 hrs 25 mins >>>----------------------   13.15 %
+C++                        101 hrs 49 mins >>-----------------------   08.29 %
+HTML                       95 hrs 48 mins  >>-----------------------   07.80 %
+Kotlin                     94 hrs 13 mins  >>-----------------------   07.67 %
 ```
 
 <!--END_SECTION:waka-->
