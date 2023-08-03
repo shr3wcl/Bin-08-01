@@ -33,15 +33,15 @@ public class Me extends Person{
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2022 - To: 01 August 2023
+From: 25 January 2022 - To: 02 August 2023
 
-Total Time: 1,255 hrs 15 mins
+Total Time: 1,256 hrs
 
-JavaScript                 374 hrs 24 mins >>>>>>>------------------   29.83 %
-PHP                        163 hrs 25 mins >>>----------------------   13.02 %
-C++                        101 hrs 51 mins >>-----------------------   08.12 %
-HTML                       96 hrs 3 mins   >>-----------------------   07.65 %
-Kotlin                     94 hrs 13 mins  >>-----------------------   07.51 %
+JavaScript                 374 hrs 24 mins >>>>>>>------------------   29.81 %
+PHP                        163 hrs 26 mins >>>----------------------   13.01 %
+C++                        101 hrs 52 mins >>-----------------------   08.11 %
+HTML                       96 hrs 7 mins   >>-----------------------   07.65 %
+Kotlin                     94 hrs 13 mins  >>-----------------------   07.50 %
 ```
 
 <!--END_SECTION:waka-->
