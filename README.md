@@ -49,7 +49,7 @@ public class Me extends Person{
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2022 - To: 02 August 2023
+From: 25 January 2022 - To: 03 August 2023
 
 Total Time: 1,256 hrs
 
