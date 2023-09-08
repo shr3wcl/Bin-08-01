@@ -1,43 +1,43 @@
-# name: Waka Readme
-
-# on:
-#   workflow_dispatch:
-#   schedule:
-#     # Runs at 12am UTC
-#     - cron: '0 0 * * *'
-
-# jobs:
-#   update-readme:
-#     name: WakaReadme DevMetrics
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: athul/waka-readme@master
-#         with:
-#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-#           SHOW_TITLE: true
-#           BLOCKS: =>
-#           TIME_RANGE: all_time
-#           SHOW_TIME: true
-#           SHOW_MASKED_TIME: true
-#           LANG_COUNT: 10
-#           CODE_LANG: rust
 name: Waka Readme
 
 on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '41 16 * * *'
   workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LANGUAGE: "True"
-          SHOW_OS: "True"
-          SHOW_EDITORS: "True"
-          SYMBOL_VERSION: 2
+          SHOW_TITLE: true
+          BLOCKS: =>
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          LANG_COUNT: 10
+          CODE_LANG: rust
+# name: Waka Readme
+
+# on:
+#   schedule:
+#     # Runs at 12am IST
+#     - cron: '41 16 * * *'
+#   workflow_dispatch:
+# jobs:
+#   update-readme:
+#     name: Update Readme with Metrics
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: anmol098/waka-readme-stats@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+#           SHOW_LANGUAGE: "True"
+#           SHOW_OS: "True"
+#           SHOW_EDITORS: "True"
+#           SYMBOL_VERSION: 2
