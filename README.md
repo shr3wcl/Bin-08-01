@@ -7,10 +7,10 @@
 <p>
   When I'm not programming or researching, I'm playing CTF, you can find me <a href="https://ctftime.org/user/149881" target="blank">here</a>. If you want to join me, get in touch, glad to have you.
 </p>
-<h2>Flexing 🤪</h2>
+<h2>🤪 Flexing J4F</h2>
 <a href="https://tryhackme.com/p/hyp3r" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/hyp3r.png" alt="TryHackMe"></a>
 
-<h3 align="left">Latest projects:</h3>
+<h2 align="left">👨🏻‍💻 Latest projects:</h3>
 
 * [bin-blog.vercel.app](https://bin-blog.vercel.app) - My blog
 * [Bot Discord CTF VKU Contest](https://discord.com/api/oauth2/authorize?client_id=1158269680289591369&permissions=8&scope=bot) - Bot CTF VKU ([Source](https://github.com/Bin-08-01/Bot-Discord-CTF-VKU))
