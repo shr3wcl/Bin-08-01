@@ -13,6 +13,7 @@
 <h3 align="left">Latest projects:</h3>
 
 * [bin-blog.vercel.app](https://bin-blog.vercel.app) - My blog
+* [Bot Discord CTF VKU Contest](https://discord.com/api/oauth2/authorize?client_id=1158269680289591369&permissions=8&scope=bot) - Bot CTF VKU ([Source](https://github.com/Bin-08-01/Bot-Discord-CTF-VKU))
 
 <!--
 ![](https://komarev.com/ghpvc/?username=Bin-08-01&color=blue)
