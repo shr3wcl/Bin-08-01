@@ -1,8 +1,7 @@
 <p>👋 Hello guys!</p>
 
 <p>
-  I'm Bin ☕, a student of computer science at <a href="https://vku.udn.vn/" target="blank">VKU</a>. I'm also self-taught about security and I'm a <a href="https://hackerone.com/mrb1n?type=user" target="blank">wandering hacker</a>. I am also a small <a href="https://bin-blog.vercel.app/" target="blank">blogger</a> hihi ^^. I am passionate about programming because it can help me create useful products for myself and the people around me. And now I also want to be a good hacker to protect these things.
-</p>
+  I'm Tri ☕. <span>But call me Computer Ninja 🥷💻</p>I am a computer science student at <a href="https://vku.udn.vn/" target="blank">VKU</a>. I'm also self-taught about security and I'm a <a href="https://hackerone.com/mrb1n?type=user" target="blank">wandering hacker</a>. I am also a small <a href="https://bin-blog.vercel.app/" target="blank">blogger</a> hihi ^^. </p>
 
 <p>
   When I'm not programming or researching, I'm playing CTF, you can find me <a href="https://ctftime.org/user/149881" target="blank">here</a>. If you want to join me, get in touch, glad to have you.
