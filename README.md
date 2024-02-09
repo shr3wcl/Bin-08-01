@@ -1,7 +1,7 @@
 <p>👋 Hello guys!</p>
 
 <p>
-  I'm Tri ☕. <span>A.K.A Mrb1n 🥷💻</p>I am a computer science student at <a href="https://vku.udn.vn/" target="blank">VKU</a>. I'm also self-taught about security and I'm a <a href="https://hackerone.com/mrb1n?type=user" target="blank">wandering hacker</a>. I am also a small <a href="https://bin-blog.vercel.app/" target="blank">blogger</a> hihi ^^. </p>
+  I'm Tri ☕. <span>A.K.A shr3wd 🥷💻</p>I am a computer science student at <a href="https://vku.udn.vn/" target="blank">VKU</a>. I'm also self-taught about security and I'm a <a href="https://hackerone.com/mrb1n?type=user" target="blank">wandering hacker</a>. I am also a small <a href="https://bin-blog.vercel.app/" target="blank">blogger</a> hihi ^^. </p>
 
 <p>
   When I'm not programming or researching, I'm playing CTF, you can find me <a href="https://ctftime.org/user/149881" target="blank">here</a>. If you want to join me, get in touch, glad to have you.
