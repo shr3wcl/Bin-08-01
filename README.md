@@ -4,7 +4,7 @@
 
   I'm Tri ☕. A.K.A **shr3wd**
   
-You can know more about me here: 
+You can know more about me here: (If you click on the links below, you will not be hacked. I'm innocent haha)
     
 - [Hackmd](https://hackmd.io/@shr3wd)
 - [My Blog page](https://bin-blog.vercel.app)
