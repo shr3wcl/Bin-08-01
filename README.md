@@ -53,7 +53,7 @@ public class Me extends Person{
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 January 2022 - To: 11 February 2024
+From: 25 January 2022 - To: 12 February 2024
 
 Total Time: 1,706 hrs 59 mins
 
